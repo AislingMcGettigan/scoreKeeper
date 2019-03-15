@@ -1,0 +1,76 @@
+.winner{
+	color:green;
+}
+
+body{
+	background: url(https://source.unsplash.com/CNBRg1K9QvQ);
+	background-size: cover;
+}
+
+body{
+	color:white;
+
+}
+#p1{
+ background-color: #4CAF50; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  margin-right: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+#p2{
+background-color:  #f44336; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+p{
+	font-size: 30px;
+	font-weight: bold;
+}
+
+#reset{
+	 background-color:  #e7e7e7; 
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+input[type=number] {
+  width: 25%;
+  padding: 5px 10px;
+  margin: 8px 10px;
+  box-sizing: border-box;
+  border: 1px solid #555;
+  outline: none;
+}
+
+label{
+	font-size: 15px;
+	font-weight:bold;
+}
+
+p span {
+	font-size:40px;
+	color:yellow;
+}
+
+h1{
+	font-size: 50px;
+	color:white;
+	text-align:center;
+}
